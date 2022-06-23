@@ -3,10 +3,10 @@ header h1  {
     margin: 10px auto;
     
 }
-header h2 {
+header p {
     background-color: aqua;
-    width: 300px;
-    padding:0 10px;
+    width: 200px;
+    padding-left: 20px;
     box-sizing: border-box;
     margin: 10px auto;
     border-radius: 5px;
